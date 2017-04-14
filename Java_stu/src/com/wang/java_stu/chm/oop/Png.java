@@ -1,16 +1,15 @@
 package com.wang.java_stu.chm.oop;
 
 public class Png extends Pet {
-	
-  
+
 	public Png(String name, int age) {
 		super(name, age);
-		
+
 	}
 
 	@Override
 	public void eat() {
-		
+
 		System.out.println("Png eat!");
 	}
 
