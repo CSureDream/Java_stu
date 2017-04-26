@@ -1,4 +1,4 @@
-package com.wang.java_stu.chm.oop;
+package com.wang.java_stu.chm.oop1;
 
 /**
  * 多态测试

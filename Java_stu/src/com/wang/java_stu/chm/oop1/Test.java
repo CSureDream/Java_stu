@@ -1,7 +1,4 @@
-package com.wang.java_stu.chm.oop;
-
-import sun.net.www.content.image.png;
-
+package com.wang.java_stu.chm.oop1;
 public class Test {
 
 	public static void main(String[] args) {
